@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Guang SHI ~ Homepage"
-description              : "Explore Guang SHI's profile, work experience, and projects. Discover a comprehensive overview of his professional background and academic achievements."
+description              : ""
 repository               : "MUSENS/MUSENS-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Guang SHI"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
+  bio              : 
   location         : "Shanghai, China"
   employer         : "China Foreign Exchange Trade System & National Interbank Funding Center"
   pubmed           : 
